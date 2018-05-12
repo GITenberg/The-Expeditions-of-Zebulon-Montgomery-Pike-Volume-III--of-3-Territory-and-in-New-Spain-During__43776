@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4611
     wikipedia: http://en.wikipedia.org/wiki/Elliott_Coues
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43776#The-Expeditions-of-Zebulon-Montgomery-Pike-Volume-III--of-3-Territory-and-in-New-Spain-During_
 gutenberg_issued: '2013-09-21'
 gutenberg_type: Text
 identifiers:
