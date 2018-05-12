@@ -1,0 +1,41 @@
+_repo: The-Expeditions-of-Zebulon-Montgomery-Pike-Volume-III--of-3-Territory-and-in-New-Spain-During__43776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pike, Zebulon Montgomery
+    alias: Pike, Zeb
+    birthdate: 1779
+    deathdate: 1813
+    gutenberg_agent_id: '46825'
+    url: http://www.gutenberg.org/2009/agents/46825
+  editor:
+    agent_name: Coues, Elliott
+    birthdate: 1842
+    deathdate: 1899
+    gutenberg_agent_id: '4611'
+    url: http://www.gutenberg.org/2009/agents/4611
+    wikipedia: http://en.wikipedia.org/wiki/Elliott_Coues
+description: ''
+gutenberg_issued: '2013-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mississippi River -- Description and travel'
+- !lcc 'F590.3'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'West (U.S.) -- History -- To 1848'
+- !lcsh 'New Mexico -- Description and travel'
+- !lcsh 'Pike, Zebulon Montgomery, 1779-1813 -- Travel -- West (U.S.)'
+- !lcsh 'West (U.S.) -- Discovery and exploration'
+title: "The Expeditions of Zebulon Montgomery Pike, Volume 3 (of 3)\r\nTo Headwaters\
+  \ of the Mississippi River Through Louisiana Territory, and in New Spain, During\
+  \ the Years 1805-6-7."
+url: http://www.gutenberg.org/ebooks/43776
